@@ -74,4 +74,4 @@ Feel free to contribute to this project by opening issues or submitting pull req
 
 ## LinkedIn post
 
-[![LinkedIn Post](/media/linkedin_thumbnail.png)](https://www.linkedin.com/posts/lalit-dumka_arduino-mpu6050-gesturecontrol-activity-7227635752560386048-14Ho?utm_source=share&utm_medium=member_desktop)
+[![LinkedIn Post](/media/linkedIn_thumbnail.png)](https://www.linkedin.com/posts/lalit-dumka_arduino-mpu6050-gesturecontrol-activity-7227635752560386048-14Ho?utm_source=share&utm_medium=member_desktop)
